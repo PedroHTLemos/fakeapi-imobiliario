@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome_proprietario": "Ana Martins",
+    "valor": 450000,
+    "endereco": "Rua das Palmeiras, 123, Centro, Florianópolis"
+  },
+  {
+    "id": 2,
+    "nome_proprietario": "Carlos Souza",
+    "valor": 1500000,
+    "endereco": "Avenida Beira-Mar Norte, 567, Centro, Florianópolis"
+  },
+  {
+    "id": 3,
+    "nome_proprietario": "Maria Fernanda",
+    "valor": 320000,
+    "endereco": "Travessa dos Pinheiros, 45, Trindade, Florianópolis"
+  },
+  {
+    "id": 4,
+    "nome_proprietario": "João Silva",
+    "valor": 980000,
+    "endereco": "Rua do Sol, 89, Lagoa da Conceição, Florianópolis"
+  },
+  {
+    "id": 5,
+    "nome_proprietario": "Luiza Andrade",
+    "valor": 2000000,
+    "endereco": "Avenida dos Coqueiros, 1010, Jurerê Internacional, Florianópolis"
+  }
+]
